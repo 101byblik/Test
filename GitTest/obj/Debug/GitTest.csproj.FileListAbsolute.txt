@@ -1,0 +1,2 @@
+c:\users\s25-vp1\documents\visual studio 2015\Projects\GitTest\GitTest\bin\Debug\GitTest.exe.config
+D:\PashaGit\GitTest\GitTest\bin\Debug\GitTest.exe.config
